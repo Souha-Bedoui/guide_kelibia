@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729059989317",
+    "firebase_url": "https://guide-kelibia.firebaseio.com",
+    "project_id": "guide-kelibia",
+    "storage_bucket": "guide-kelibia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729059989317:android:760012cbc639306de1502c",
+        "android_client_info": {
+          "package_name": "com.example.guidekelibia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729059989317-msf7atv7ffh54ifc008uddka74gdudph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guidekelibia",
+            "certificate_hash": "e709532c8695806f1d226c5bca6356bf96567ec3"
+          }
+        },
+        {
+          "client_id": "729059989317-hvenicoi7ddrk7974nttg51vjhmcelio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFm72xV5v64JYorbB-QErHCGXygXMxos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729059989317-hvenicoi7ddrk7974nttg51vjhmcelio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

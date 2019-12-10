@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191646943105",
+    "firebase_url": "https://application-mobile-241012.firebaseio.com",
+    "project_id": "application-mobile-241012",
+    "storage_bucket": "application-mobile-241012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191646943105:android:8a83ff051477c9abf00a80",
+        "android_client_info": {
+          "package_name": "com.example.guidekelibia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191646943105-mtcpejjmgpcbcpkqkitbms6jgt9iba1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEb1h5WV8jzBj_KpWwsEe7QyTXoLuG-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191646943105-mtcpejjmgpcbcpkqkitbms6jgt9iba1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
